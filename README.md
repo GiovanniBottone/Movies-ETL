@@ -5,6 +5,7 @@ This project focused on creating an automated pipeline for ficitonal company 'Am
 
 ### Summary
 This project can be seen through four main deliverables:
+
 Deliverable 1: ETL_function_test, for reference: https://github.com/GiovanniBottone/Movies-ETL/blob/main/ETL_function_test.ipynb
 
 Deliverable 2: ETL_clean_wiki_movies, for reference: https://github.com/GiovanniBottone/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
